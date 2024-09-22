@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidResecue.API", "RapidResecue.API\RapidResecue.API.csproj", "{6ABBB23A-905D-4013-9B14-806A185D645B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABBB23A-905D-4013-9B14-806A185D645B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABBB23A-905D-4013-9B14-806A185D645B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABBB23A-905D-4013-9B14-806A185D645B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABBB23A-905D-4013-9B14-806A185D645B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0B47A4-DD87-4304-99C0-CF25E21811F2}
+	EndGlobalSection
+EndGlobal

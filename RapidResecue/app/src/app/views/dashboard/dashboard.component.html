@@ -1,0 +1,78 @@
+<c-card class="my-4" style="cursor: pointer;" (click)="addBooking()" *ngIf="auth.isLoggedIn() && auth.getUser().role == 'Patient' && !booking">
+  <c-card-body>
+    <div class="d-flex w-100 justify-content-center">
+      <span class="d-block w-25 text-center">Add Booking <br> <i style="font-size: 48px;">+</i></span>
+      
+    </div>
+  </c-card-body>
+</c-card>
+<div *ngIf="auth.isLoggedIn() && booking">
+  <form [formGroup]="dispatchForm">
+    <c-card class="my-4" style="cursor: pointer;">
+      <c-card-body>
+        <div class="d-flex" style="justify-content: space-between;">
+          <div>
+            Booking # {{ booking.id }}
+          </div>
+          <div *ngIf="booking.emergency">
+            <c-badge color="danger">Emergency</c-badge>
+          </div>
+        </div>
+        Status: {{ booking.status }} <br>
+        Ambulance: {{ ((booking ?? {}).ambulance ?? {}).vehicleNumber }} <br>
+        Hospital: {{ booking.hospital }} <br>
+        <span *ngIf="auth.getUser().role == 'Patient'">
+          Distance: {{ difference < 1 ? (difference / 1000).toFixed(2) + ' m' : difference + 'km' }} <br>
+          ETA {{ (difference * 1.4).toFixed(2) }} minutes
+        </span>
+        <c-row class="mb-4" *ngIf="auth.getUser().role == 'admin'">
+          <c-col>
+            <div class="form-group">
+              <label for="driver">Driver</label>
+              <select name="driver" id="driver" class="form-select form-control" formControlName="driver">
+                <option *ngFor="let driver of drivers" [value]="driver.id">{{ driver.phoneNumber }}</option>
+              </select>
+            </div>
+          </c-col>
+          <c-col>
+            <div class="form-group">
+              <label for="ambulance">Ambulance</label>
+              <select name="ambulance" id="ambulance" class="form-select form-control" formControlName="ambulance">
+                <option *ngFor="let ambulance of ambulances" [value]="ambulance.id">{{ (ambulance ?? {}).vehicleNumber }}</option>
+              </select>
+            </div>
+          </c-col>
+        </c-row>
+        <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" [src]="mapUrl"></iframe>
+        <div class="d-flex justify-content-end" *ngIf="auth.getUser().role == 'Admin'">
+          <button class="btn btn-primary" (click)="dispatch()">Dispatch</button>
+        </div>
+        <div class="d-flex justify-content-end" *ngIf="auth.getUser().role == 'Driver'">
+          <button *ngIf="booking.status == 'Dispatched'" class="btn btn-primary mt-3" (click)="updateStatus('En-Route')">En Route</button>
+          <button *ngIf="booking.status == 'En-Route'" class="btn btn-primary mt-3" (click)="updateStatus('Arrived')">Arrived</button>
+          <button *ngIf="booking.status == 'Arrived'" class="btn btn-primary mt-3" (click)="updateStatus('Transporting Patient')">Transporting Patient</button>
+          <button *ngIf="booking.status == 'Transporting Patient'" class="btn btn-primary mt-3" (click)="updateStatus('Completed')">Completed</button>
+        </div>
+        
+        <div *ngIf="auth.getUser().role == 'Driver'">
+          <table class="table w-100">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Type</th>
+                <th>Description</th>
+                <th>Date</th>
+              </tr>
+            </thead>
+            <tr *ngFor="let history of histories">
+              <td>{{ history.id }}</td>
+              <td>{{ history.type }}</td>
+              <td>{{ history.description }}</td>
+              <td>{{ formatDate(history.date) }}</td>
+            </tr>
+          </table>
+        </div>
+      </c-card-body>
+    </c-card>
+  </form>
+</div>

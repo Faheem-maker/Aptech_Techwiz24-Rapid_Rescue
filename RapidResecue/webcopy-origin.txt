@@ -1,0 +1,1656 @@
+Uri: https://fonts.googleapis.com/css?family=Fjalla+One
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300italic,300,400italic,500,500italic,700,700italic,900,900italic
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/fjallaone/v15/Yq6R-LCAWCX3-6Ky7FAFrOF6lw.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\fjallaone\v15\Yq6R-LCAWCX3-6Ky7FAFrOF6lw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://livedemo00.template-help.com/joomla_48887/
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.htm
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/css/common.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\css\common.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/css/syntaxhighlighter/default.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\css\syntaxhighlighter\default.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/loader.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\loader.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/dailymotion.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\dailymotion.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/google.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\google.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/liveleak.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\liveleak.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/metacafe.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\metacafe.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/nicovideo.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\nicovideo.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/vimeo.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\vimeo.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/yahoo.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\yahoo.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/images/videos/youtube.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\images\videos\youtube.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/assets/vendors/ratings/stars.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\assets\vendors\ratings\stars.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/css/style.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\css\style.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/control-sprite.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\control-sprite.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/email.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\email.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/ico-comment.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\ico-comment.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/ico-forgot.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\ico-forgot.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/ico-hits.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\ico-hits.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/ico-locked-big.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\ico-locked-big.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/ico-readmore.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\ico-readmore.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/ico-register.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\ico-register.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/icon-error.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\icon-error.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/last.login.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\last.login.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/loader.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\loader.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/location.pin.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\location.pin.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/bold.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\bold.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/clean.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\clean.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/code.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\code.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/emoticon-happy.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\emoticon-happy.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/emoticon-smile.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\emoticon-smile.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/emoticon-surprised.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\emoticon-surprised.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/emoticon-tongue.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\emoticon-tongue.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/emoticon-unhappy.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\emoticon-unhappy.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/emoticon-wink.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\emoticon-wink.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/handle.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\handle.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/italic.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\italic.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/link.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\link.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/list-bullet.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\list-bullet.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/list-item.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\list-item.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/list-numeric.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\list-numeric.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/menu.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\menu.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/picture.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\picture.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/preview.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\preview.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/quotes.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\quotes.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/submenu.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\submenu.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/underline.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\underline.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/markitup/video.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\markitup\video.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/mime.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\mime.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/quote.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\quote.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/rss.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\rss.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/stream.chat.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\stream.chat.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/stream.heart.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\stream.heart.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/stream.pin.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\stream.pin.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/stream.popular.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\stream.popular.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/stream.reply.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\stream.reply.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/time.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\time.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/unemail.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\unemail.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/verified.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\verified.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/components/com_komento/themes/kuro/images/word.count.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\components\com_komento\themes\kuro\images\word.count.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/banner.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-img8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/blog/blog-thumb8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\blog\blog-thumb8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/carousel/carousel-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\carousel\carousel-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/carousel/carousel-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\carousel\carousel-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/carousel/carousel-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\carousel\carousel-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/carousel/carousel-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\carousel\carousel-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/carousel/carousel-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\carousel\carousel-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/carousel/carousel-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\carousel\carousel-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img10.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img10.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-img9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-img9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb10.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb10.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb7.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb7.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb8.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb8.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/gallery/gallery-thumb9.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\gallery\gallery-thumb9.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/icon1.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\icon1.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/icon2.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\icon2.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/icon3.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\icon3.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/icon4.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\icon4.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/navicon1.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\navicon1.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/navicon2.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\navicon2.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/icons/navicon3.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\icons\navicon3.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/logo.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\logo.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/monials/monialimg1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\monials\monialimg1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/monials/monialimg2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\monials\monialimg2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/monials/monialimg3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\monials\monialimg3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/monials/monialimg4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\monials\monialimg4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/monials/monialimg5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\monials\monialimg5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/monials/monialimg6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\monials\monialimg6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/pages/page1-img1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\pages\page1-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/pages/page1-img2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\pages\page1-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/pages/page1-img3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\pages\page1-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/pages/page1-img4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\pages\page1-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/pages/page1-img5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\pages\page1-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/pages/page1-img6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\pages\page1-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/phone.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\phone.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon1.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon1.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon10.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon10.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon11.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon11.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon12.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon12.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon2.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon2.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon3.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon3.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon4.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon4.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon5.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon5.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon6.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon6.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon7.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon7.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon8.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon8.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/posticons/icon9.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\posticons\icon9.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/profposts/img1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\profposts\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/profposts/img2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\profposts\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/profposts/img3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\profposts\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/slider/slide-1.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\slider\slide-1.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/slider/slide-2.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\slider\slide-2.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/social/facebook.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\social\facebook.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/social/google.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\social\google.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/social/linkedin.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\social\linkedin.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/social/mail.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\social\mail.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/social/twitter.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\social\twitter.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/team/team-1.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/team/team-2.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/team/team-3.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\team\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/team/team-4.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\team\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/team/team-5.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\team\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/images/team/team-6.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\images\team\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/2014-01-13-09-16-64
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\2014-01-13-09-16-64.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/2014-01-13-16-20-01
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\2014-01-13-16-20-01.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/40-notable-centers-of-excellence/84-quisque-nulla
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\40-notable-centers-of-excellence\84-quisque-nulla.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/40-notable-centers-of-excellence/85-quisque-nulla-2
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\40-notable-centers-of-excellence\85-quisque-nulla-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/42-our-hospital-updates/89-vestibulum-liberl-porta-vel-scelerisque-eget-males
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\42-our-hospital-updates\89-vestibulum-liberl-porta-vel-scelerisque-eget-males.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/43-top-posts/90-iaculis-lacinia
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\43-top-posts\90-iaculis-lacinia.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/43-top-posts/91-iaculis-lacinia-2
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\43-top-posts\91-iaculis-lacinia-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/43-top-posts/92-iaculis-lacinia-3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\43-top-posts\92-iaculis-lacinia-3.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/48-carol-adams
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\48-carol-adams.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/49-jason-parker
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\49-jason-parker.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/50-sharon-wright
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\50-sharon-wright.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/51-richard-phillips
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\51-richard-phillips.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/52-steven-mitchell
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\52-steven-mitchell.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/53-elizabeth-carter
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\53-elizabeth-carter.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/faqs
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\faqs.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/faqs/58-question-1-aenean-varius-varius-tincidunt
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\faqs\58-question-1-aenean-varius-varius-tincidunt.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/faqs/59-question-2-donec-quis-erat-id-risus-scelerisque
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\faqs\59-question-2-donec-quis-erat-id-risus-scelerisque.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/faqs/60-question-3-vestibulum-fermentum-massa-nec
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\faqs\60-question-3-vestibulum-fermentum-massa-nec.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/faqs/61-question-4-ut-sed-sapien-eu-libero-faucibus-posuere
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\faqs\61-question-4-ut-sed-sapien-eu-libero-faucibus-posuere.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history/42-1998
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history\42-1998.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history/43-2001
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history\43-2001.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history/44-2006
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history\44-2006.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history/45-2009
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history\45-2009.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history/46-2011
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history\46-2011.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/history/47-2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\history\47-2012.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/team
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\team.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/about/team/testimonials
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\about\team\testimonials.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/10-home-praesent-et-enim-a-nisl-commodo-sodales-non
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\10-home-praesent-et-enim-a-nisl-commodo-sodales-non.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/102-aenean-nonummy-hendrerit-mauris-phasellus-porta-fusce-suscipit-varius-mi
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\102-aenean-nonummy-hendrerit-mauris-phasellus-porta-fusce-suscipit-varius-mi.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/11-archive-cras-ligula-nisi-interdum-et-vulputate-nec
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\11-archive-cras-ligula-nisi-interdum-et-vulputate-nec.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/112-vivamus-eget-nibh-etiam-cursus-leo-vel-metus-nulla-facilisi-aenean-nec-eros-vestibulum-ante-ipsum
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\112-vivamus-eget-nibh-etiam-cursus-leo-vel-metus-nulla-facilisi-aenean-nec-eros-vestibulum-ante-ipsum.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/12-archive-nullam-mauris-arcu-malesuada-eu-consectetur-non
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\12-archive-nullam-mauris-arcu-malesuada-eu-consectetur-non.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/13-archive-enim-mi-posuere-augue-id-porttitor-leo-sapien-sed-libero
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\13-archive-enim-mi-posuere-augue-id-porttitor-leo-sapien-sed-libero.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/7-archive-aliquam-erat-volutpat-pellentesque-non-libero
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\7-archive-aliquam-erat-volutpat-pellentesque-non-libero.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/8-home-class-aptent-taciti-sociosqu-ad-litora-torquent-2
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\8-home-class-aptent-taciti-sociosqu-ad-litora-torquent-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2-uncategorised/9-home-morbi-tincidunt-sodales-neque-eu-rutrum
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2-uncategorised\9-home-morbi-tincidunt-sodales-neque-eu-rutrum.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012-6.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=4
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012-5.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=5
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012-4.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=6
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012-3.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=7
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=8
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012-1.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives/2012?view=archive&month=9
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives\2012.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=3&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-6.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=3&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-13.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=4&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-5.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=4&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-12.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=5&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-4.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=5&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-11.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=6&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-3.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=6&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-10.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=7&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=7&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-9.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=8&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-1.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=8&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-8.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=9&id=2012
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/archives?month=9&id=2012&view=archive
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\archives-7.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-curabitur-eu-dignissim-velit
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-curabitur-eu-dignissim-velit.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-curabitur-eu-dignissim-velit/40-proin-eget-quam-urna-vitae
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-curabitur-eu-dignissim-velit\40-proin-eget-quam-urna-vitae.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-donec-eu-elit-in-nisi
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-donec-eu-elit-in-nisi.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-donec-eu-elit-in-nisi/15-aenean-nec-semper-sem-ut-quis
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-donec-eu-elit-in-nisi\15-aenean-nec-semper-sem-ut-quis.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-donec-eu-elit-in-nisi/16-mattis-sed-laoreet-ac-ultrices
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-donec-eu-elit-in-nisi\16-mattis-sed-laoreet-ac-ultrices.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-in-neque-arcu-vulputate
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-in-neque-arcu-vulputate.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-in-neque-arcu-vulputate/36-in-neque-arcu-vulputate-vitae
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-in-neque-arcu-vulputate\36-in-neque-arcu-vulputate-vitae.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-quisque-gravida-purus-vitae
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-quisque-gravida-purus-vitae.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-quisque-gravida-purus-vitae/38-placerat-adipiscing-lorem
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-quisque-gravida-purus-vitae\38-placerat-adipiscing-lorem.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-vivamus-congue-turpis-in-augue
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-vivamus-congue-turpis-in-augue.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-vivamus-congue-turpis-in-augue/41-vestibulum-commodo-mollis
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-vivamus-congue-turpis-in-augue\41-vestibulum-commodo-mollis.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-vivamus-luctus-lectus-sit
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-vivamus-luctus-lectus-sit.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-vivamus-luctus-lectus-sit/37-donec-eu-elit-in-nisi-placerat
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-vivamus-luctus-lectus-sit\37-donec-eu-elit-in-nisi-placerat.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog-categories/blog-vivamus-luctus-lectus-sit/39-nulla-consectetur-adipiscing-metus
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-categories\blog-vivamus-luctus-lectus-sit\39-nulla-consectetur-adipiscing-metus.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog?limitstart=0
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-3.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog?start=3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-1.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/blog?start=6
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\blog-2.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=101&catid=40&id=84&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-13.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=101&catid=40&id=85&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-14.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=101&catid=42&id=89&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-15.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=101&catid=43&id=90&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-10.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=101&catid=43&id=91&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-11.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=101&catid=43&id=92&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-12.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=102&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-9.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=109&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-8.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&catid=34&id=48&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-42.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&catid=34&id=49&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-41.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&catid=34&id=50&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-34.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&catid=34&id=51&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-33.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&catid=34&id=52&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-32.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&catid=34&id=53&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-31.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=167&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-3.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=168&catid=35&id=58&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-43.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=168&catid=35&id=59&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-44.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=168&catid=35&id=60&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-45.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=168&catid=35&id=61&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-46.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=168&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-7.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=169&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-1.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=170&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-5.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=171&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-6.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&catid=33&id=42&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-35.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&catid=33&id=43&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-36.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&catid=33&id=44&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-37.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&catid=33&id=45&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-38.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&catid=33&id=46&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-39.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&catid=33&id=47&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-40.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=172&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-4.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=173&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-2.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=176&catid=30&id=26&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-21.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=176&catid=30&id=27&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-23.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=176&catid=30&id=28&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-24.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=176&catid=30&id=35&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-22.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=178&catid=32&id=68&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-29.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=178&catid=32&id=69&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-28.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=178&catid=32&id=70&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-30.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=179&catid=31&id=29&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-25.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=179&catid=31&id=30&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-26.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=179&catid=31&id=33&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-27.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=182&catid=13&id=15&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-64.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=182&catid=13&id=16&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-51.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=182&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-52.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=183&catid=14&id=36&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-49.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=183&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-50.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=184&catid=15&id=38&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-65.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=184&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-53.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=185&catid=16&id=37&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-47.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=185&catid=16&id=39&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-63.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=185&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-48.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=186&catid=17&id=41&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-68.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=186&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-54.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=187&catid=19&id=40&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-66.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=187&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-55.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=200&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-18.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=201&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-19.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=10&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-77.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=102&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-85.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=11&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-83.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=112&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-84.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=12&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-79.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=13&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-81.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=7&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-73.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=8&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-70.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&catid=2&id=9&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-75.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=235&id=2&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-71.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=246&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-20.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=316&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-17.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?Itemid=327&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-16.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?limitstart=0&Itemid=109&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-67.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=3&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-82.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=3&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-62.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=4&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-80.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=4&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-61.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=5&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-78.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=5&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-60.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=6&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-76.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=6&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-59.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=7&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-74.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=7&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-58.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=8&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-72.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=8&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-57.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=9&id=2012&Itemid=235&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-69.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/component/search/?month=9&Itemid=235&id=2012&format=opensearch
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\component\search\index-56.htm
+Content Type: application/opensearchdescription+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/contact-us
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\contact-us.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/first-gallery/26-suspendisse
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\first-gallery\26-suspendisse.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/first-gallery/27-nulla-aliquet-libero
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\first-gallery\27-nulla-aliquet-libero.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/first-gallery/28-enim-ultrices
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\first-gallery\28-enim-ultrices.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/first-gallery/35-morbi-eleifend
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\first-gallery\35-morbi-eleifend.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/second-gallery/29-gallery-vivamus-libero
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\second-gallery\29-gallery-vivamus-libero.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/second-gallery/30-ut-at-erat-eu
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\second-gallery\30-ut-at-erat-eu.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/second-gallery/33-aenean-quis
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\second-gallery\33-aenean-quis.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/third-gallery/68-lorem-ipsum
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\third-gallery\68-lorem-ipsum.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/third-gallery/69-gallery-porta-arcu-sed
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\third-gallery\69-gallery-porta-arcu-sed.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/gallery-categories/third-gallery/70-cras-sed
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\gallery-categories\third-gallery\70-cras-sed.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/password-reset
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\password-reset.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/services
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\services.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/user-registration
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\user-registration.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php/username-reminder-request
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php (1)\username-reminder-request.html
+Content Type: text/html
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index-1.php
+Content Type: application/atom+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/index.php?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\index.php
+Content Type: application/rss+xml
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/com_komento/scripts/abstract.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\com_komento\scripts\abstract.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/foundry/2.1/scripts/foundry.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\foundry\2.1\scripts\foundry.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/jui/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\jui\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/jui/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\jui\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/jui/js/jquery-noconflict.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\jui\js\jquery-noconflict.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/jui/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\jui\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/plugin_googlemap3/site/googleearthv3/googleearth.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\plugin_googlemap3\site\googleearthv3\googleearth.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/plugin_googlemap3/site/googlemaps/googlemaps.css.php
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\plugin_googlemap3\site\googlemaps\googlemaps.css.php
+Content Type: application/octet-stream
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/plugin_googlemap3/site/googlemaps/googlemapsv3.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\plugin_googlemap3\site\googlemaps\googlemapsv3.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/images/searchButton.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\images\searchButton.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/caption.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\caption.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/core.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\core.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/html5fallback.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\html5fallback.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/mootools-core.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\mootools-core.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/mootools-more.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\mootools-more.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/tabs-state.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\tabs-state.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/media/system/js/validate.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\media\system\js\validate.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_caroufredsel/js/jquery.caroufredsel.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_caroufredsel\js\jquery.caroufredsel.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_sequence_slider/js/jquery.sequence.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_sequence_slider\js\jquery.sequence.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/css/superfish-navbar.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\css\superfish-navbar.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/css/superfish-vertical.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\css\superfish-vertical.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/css/superfish.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\css\superfish.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/js/hoverIntent.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\js\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/js/jquery.mobilemenu.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\js\jquery.mobilemenu.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/js/sftouchscreen.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\js\sftouchscreen.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/js/superfish.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\js\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/modules/mod_superfish_menu/js/supersubs.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\modules\mod_superfish_menu\js\supersubs.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/caroufredsel.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\caroufredsel.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/default.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\default.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/hover_styles/style2.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\hover_styles\style2.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/komento.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\komento.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/responsive.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\responsive.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/sequence.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\sequence.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/template.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\template.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/css/touch.gallery.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\css\touch.gallery.css
+Content Type: text/css
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/favicon.ico
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/gallery/arrows.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\gallery\arrows.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/system/preloader.gif
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\system\preloader.gif
+Content Type: image/gif
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/cat.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\cat.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/comment.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\comment.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/date.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\date.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/marker.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\marker.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/monial-bg.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\monial-bg.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/monial.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\monial.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/top-bg.jpg
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\top-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/template/user.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\template\user.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/up-arrow.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\up-arrow.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/images/zoom.png
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\images\zoom.png
+Content Type: image/png
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/desktop-mobile.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\desktop-mobile.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/ios-orientationchange-fix.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\ios-orientationchange-fix.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/jquery.BlackAndWhite.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\jquery.BlackAndWhite.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/jquery.easing.1.3.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/jquery.isotope.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/jquery.magnific-popup.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/jquery.mobile.customized.min.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\jquery.mobile.customized.min.js
+Content Type: application/javascript
+
+Uri: https://livedemo00.template-help.com/joomla_48887/templates/theme1870/js/scripts.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\joomla_48887\templates\theme1870\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\font-awesome\4.0.3\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\font-awesome\4.0.3\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?v=4.0.3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\font-awesome\4.0.3\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.svg?v=4.0.3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\font-awesome\4.0.3\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.ttf?v=4.0.3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\font-awesome\4.0.3\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.woff?v=4.0.3
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\font-awesome\4.0.3\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\livedemo00.template-help.com\js\300\addthis_widget.js
+Content Type: text/javascript
+

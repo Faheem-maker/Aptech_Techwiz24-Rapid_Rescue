@@ -1,0 +1,36 @@
+<c-card class="my-4">
+  <c-card-body>
+    <form [formGroup]="ambulanceForm">
+      <div class="form-group">
+        <label for="vehicleNo" class="form-label">Vehicle #</label>
+        <input type="text" name="vehicleNo" id="vehicleNo" class="form-control mb-2" formControlName="vehicleNo">
+      </div>
+      <print-error [control]="ambulanceForm.controls.vehicleNo" class="mb-3"></print-error>
+      <div class="d-flex justify-right">
+        <button class="btn btn-primary" (click)="save()" [disabled]="!ambulanceForm.valid">Save</button>
+      </div>
+    </form>
+  </c-card-body>
+</c-card>
+
+<table datatable [dtOptions]="dtOptions" [dtTrigger]="dtTrigger" class="table w-100">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Vehicle No</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let ambulance of ambulances">
+      <td>{{ ambulance.id }}</td>
+      <td>{{ ambulance.vehicleNumber }}</td>
+      <td>
+        <div class="btn-group">
+          <button class="btn btn-info" (click)="load(ambulance.id)">Edit</button>
+          <button class="btn btn-danger" (click)="remove(ambulance.id)">Delete</button>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>

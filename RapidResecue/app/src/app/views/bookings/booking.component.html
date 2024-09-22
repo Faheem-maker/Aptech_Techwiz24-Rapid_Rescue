@@ -1,0 +1,50 @@
+<c-card class="my-4">
+  <c-card-body>
+    <form [formGroup]="bookingForm">
+      <div class="form-group">
+        <label for="contact" class="form-label">Contact</label>
+        <input type="text" name="contact" id="contact" class="form-control" formControlName="contact">
+        <print-error [control]="bookingForm.controls.contact"></print-error>
+      </div>
+      <div class="form-group">
+        <label for="hospital" class="form-label">Hospital</label>
+        <select id="hospital" class="form-control form-select"  formControlName="hospital">
+          <option *ngFor="let hospital of hospitals" [value]="hospital.title">{{ hospital.title }}</option>
+        </select>
+        <print-error [control]="bookingForm.controls.hospital"></print-error>
+      </div>
+      <div class="form-group">
+        <label for="address" class="form-label">Pickup Address</label>
+        <textarea (change)="map()" name="address" id="address" cols="90" rows="5" class="form-control"  formControlName="address">
+        </textarea>
+        <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" [src]=" mapUrl"></iframe>
+        <print-error [control]="bookingForm.controls.address"></print-error>
+      </div>
+      <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="emergency"  formControlName="emergency">
+        <label class="form-check-label" for="emergency">Emergency</label> <br>
+        <print-error [control]="bookingForm.controls.emergency"></print-error>
+      </div>
+      <div class="d-flex justify-right">
+        <button class="btn btn-primary" (click)="save()" [disabled]="!bookingForm.valid">Call Ambulance</button>
+      </div>
+    </form>
+  </c-card-body>
+</c-card>
+
+<table class="table w-100">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Booked At</th>
+      <th>Pickup At</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tr *ngFor="let booking of bookings">
+    <td>{{ booking.id }}</td>
+    <td>{{ formatDate(booking.bookedAt) }}</td>
+    <td>{{ (booking.pickupAt ? formatDate(booking.pickupAt) : "N / A") }}</td>
+    <td>{{ booking.status }}</td>
+  </tr>
+</table>
